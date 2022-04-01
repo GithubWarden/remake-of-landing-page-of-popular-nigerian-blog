@@ -142,9 +142,7 @@ footer .footer-2 p {
 
 .News_Events .Left .latest {
     text-align: center;
-    color: #890e2a;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 30px;
+
 }
 
 .News_Events .Left .latest .latestnews {
@@ -156,6 +154,7 @@ footer .footer-2 p {
     border-radius: 5px;
     margin-top: 10px;
     padding: 5px;
+    margin-left: 0px;
 }
 
 
