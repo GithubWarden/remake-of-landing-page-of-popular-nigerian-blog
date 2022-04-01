@@ -1,1 +1,1 @@
-# remake-of-popular-nigerian-blog
+# remake-of-popular-nigerian-blog-landing-page
